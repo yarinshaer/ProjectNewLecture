@@ -1,0 +1,5 @@
+E:\ProjectLecture\BO\bin\Debug\BO.dll
+E:\ProjectLecture\BO\bin\Debug\BO.pdb
+E:\ProjectLecture\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+E:\ProjectLecture\BO\obj\Debug\BO.dll
+E:\ProjectLecture\BO\obj\Debug\BO.pdb

@@ -1,0 +1,6 @@
+E:\ProjectLecture\Lenguages\bin\Debug\Lenguages.dll
+E:\ProjectLecture\Lenguages\bin\Debug\Lenguages.pdb
+E:\ProjectLecture\Lenguages\obj\Debug\Lenguages.csproj.AssemblyReference.cache
+E:\ProjectLecture\Lenguages\obj\Debug\Lenguages.csproj.CoreCompileInputs.cache
+E:\ProjectLecture\Lenguages\obj\Debug\Lenguages.dll
+E:\ProjectLecture\Lenguages\obj\Debug\Lenguages.pdb

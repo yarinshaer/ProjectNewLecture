@@ -1,0 +1,6 @@
+E:\ProjectLecture\Lecture\bin\Debug\Lecture.dll
+E:\ProjectLecture\Lecture\bin\Debug\Lecture.pdb
+E:\ProjectLecture\Lecture\obj\Debug\Lecture.csproj.AssemblyReference.cache
+E:\ProjectLecture\Lecture\obj\Debug\Lecture.csproj.CoreCompileInputs.cache
+E:\ProjectLecture\Lecture\obj\Debug\Lecture.dll
+E:\ProjectLecture\Lecture\obj\Debug\Lecture.pdb

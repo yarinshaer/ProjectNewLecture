@@ -1,0 +1,39 @@
+
+
+
+<div class="container">
+
+    <h3>filter by lecture</h3>
+    <div *ngFor="let lan of languages">
+        <input type="checkbox" [value]="lan.Name" [checked]="lan.isSelected"  (change)="lan.isSelected = !lan.isSelected;filterLec()"
+        />
+        {{ lan.Name}}
+      </div>
+
+    <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col" >number</th>
+          <th scope="col" >name lecture</th>
+          <th scope="col">email</th>
+          <th scope="col">languages of the lecture</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let client of lecture ">
+          <th clas="col-sm-2">{{ client.Id }}</th>
+          <td class="col-sm-2">
+            {{ client.Name }}
+          </td>
+          <td class="col-sm-2">
+            {{ client.Email }}
+          </td>
+          <td class="col-sm-2">
+            {{ client.languagesName }}
+          </td>
+
+        </tr>
+        </tbody>
+      </table>
+</div>
+

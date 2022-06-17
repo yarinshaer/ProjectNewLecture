@@ -1,0 +1,5 @@
+E:\ProjectLecture\LectureUI\bin\Debug\LectureUI.dll
+E:\ProjectLecture\LectureUI\bin\Debug\LectureUI.pdb
+E:\ProjectLecture\LectureUI\obj\Debug\LectureUI.csproj.CoreCompileInputs.cache
+E:\ProjectLecture\LectureUI\obj\Debug\LectureUI.dll
+E:\ProjectLecture\LectureUI\obj\Debug\LectureUI.pdb
