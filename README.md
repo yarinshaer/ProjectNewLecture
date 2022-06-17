@@ -11,3 +11,6 @@ ng  serve
 # server - asp.net web api  
 
 done
+
+![image](https://user-images.githubusercontent.com/34893583/174312051-39e7c8e1-4a39-4f39-a04a-9bd307b3ecbf.png)
+
